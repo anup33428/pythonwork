@@ -1,0 +1,9 @@
+{
+  "formData": {
+    "email":  "Carlos.robert75@yahoo.com",
+    "password": "",
+    "reenterpassword": "",
+    "securityquestion": "This is filled randomly from the list of questions",
+    "securityanswer": "NewHampshire"
+  }
+}

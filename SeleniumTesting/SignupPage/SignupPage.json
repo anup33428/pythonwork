@@ -1,0 +1,9 @@
+{
+  "formData": {
+    "email":  "newtestuser3@speedycash.com",
+    "password": "",
+    "reenterpassword": "",
+    "securityquestion": "This is filled randomly from the list of questions",
+    "securityanswer": "threatattack"
+  }
+}

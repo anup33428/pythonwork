@@ -1,0 +1,42 @@
+{
+  "testsignup": true,
+  "formData": {
+       "personalInfo": {
+          "firstName": "Carlos",
+          "lastName": "RREGULAR",
+          "middleName": "C",
+          "ssn": "132665979",
+          "idType": "Drivers License",
+          "idNumber": "k99723479",
+          "idCountry": "",
+          "idState":"Kansas"
+       },
+       "contactInfo":{
+          "streetAddress": "1012 E57 Street",
+          "houseType": "Apartment",
+          "houseNumber": "1112",
+          "city": "Wichita",
+          "state": "Kansas",
+          "zipcode": "67221",
+          "homePhone": "5504443333",
+          "mobilePhone": "3161813444",
+          "activeMilitaryDuty": false,
+          "accAlert": false,
+          "promotions": false
+       },
+       "incomeInfo":{
+         "source": "",
+         "employer": "",
+         "workPhone": "3162227856",
+         "paydate": "09/07/2018",
+         "grossPay": "3326",
+         "takeHome": "3110"
+       },
+       "bankInfo":{
+         "account":"961249",
+         "routing":"011401533",
+         "cardnumber":"4012888888881881",
+         "expyear": "2022"
+       }
+  }
+}
